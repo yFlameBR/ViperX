@@ -17,10 +17,10 @@
   "Dlls":
   [
     {
-      "KrnlDownload": "",
-      "TrigonDownload": "",
-      "WeAreDevsDownload": "",
-      "ElectronDownload": ""
+      "KrnlDownload": "https://k-storage.com/bootstrapper/files/krnl.dll",
+      "TrigonDownload": "https://cdnryos.xyz/Trigon.dll",
+      "WeAreDevsDownload": "https://cdn.wearedevs.net/software/exploitapi/latestdata.txt",
+      "ElectronDownload": "https://ryos.best/api/update.jit"
     }
   ]
 }
