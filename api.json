@@ -2,12 +2,12 @@
   "Data":
   [
     {
-      "CefSharpHash": "",
+      "CefSharpHash": "1057B9C23E7BAA0EEAFF8059C4276FB8F55D89F8207617DB133EA97F92EB841DC85856C47395776D26E81011112C321D9C7EB5619AF2C553179147EBE04DF301",
       "LauncherHash": "",
       "UIHash": "",
       "InjectorHash": "",
       
-      "CefSharpDownload": "",
+      "CefSharpDownload": "https://cdn.discordapp.com/attachments/950138437225316433/950138578820821022/CefSharp.zip",
       "LauncherDownload": "",
       "InjectorDownload": "",
       "UIDownload": ""
