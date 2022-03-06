@@ -1,0 +1,26 @@
+{
+  "Data":
+  [
+    {
+      "CefSharpHash": "",
+      "LauncherHash": "",
+      "UIHash": "",
+      "InjectorHash": "",
+      
+      "CefSharpDownload": "",
+      "LauncherDownload": "",
+      "InjectorDownload": "",
+      "UIDownload": ""
+    }
+    
+  ],
+  "Dlls":
+  [
+    {
+      "KrnlDownload": "",
+      "TrigonDownload": "",
+      "WeAreDevsDownload": "",
+      "ElectronDownload": ""
+    }
+  ]
+}
